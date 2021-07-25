@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/user/study/learn-next/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_03956e31"
+  },
+  {
+    "name": "contacts",
+    "path": "/contacts",
+    "component": "/Users/user/study/learn-next/pages/contacts.vue",
+    "chunkName": "pages/contacts",
+    "children": [
+      {
+        "name": "contacts-no",
+        "path": ":no",
+        "component": "/Users/user/study/learn-next/pages/contacts/_no/index.vue",
+        "chunkName": "pages/contacts/_no/index",
+        "_name": "_7780d49a"
+      }
+    ],
+    "_name": "_5b2b6f5f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/user/study/learn-next/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_234d48f6"
+  }
+]
